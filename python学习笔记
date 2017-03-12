@@ -1,1 +1,19 @@
 记录python的学习旅程
+跟进学习，记录玩一下包的过程
+股票相关
+Tushare
+开始菜单运行cmd,命令行界面
+分别依次执行如下命令
+pip install numpy
+pip install lxml
+pip install cycler
+pip install pandas
+pip install requests
+pip install tushare
+包安装成功，进行测试
+python
+>>>import tushare as ts
+>>>print (ts.__version__)
+0.6.9
+测试成功
+在我们的IDEL下玩起来
